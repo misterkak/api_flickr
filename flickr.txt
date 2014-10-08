@@ -1,0 +1,10 @@
+Flickr:
+
+Done! Here's the API key and secret for your new app:
+
+school work practise with APIs
+Key:
+f6d13f6b8919be17004ea8d267840b09
+
+Secret:
+57ba9608d3bba8e7
